@@ -3,6 +3,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 
 This project analyzes the distribution of news categories using real-time data from NewsAPI.
+ <a "https://analysisofnewscategories.streamlit.app/" > Click here</a>
 
 ## 🚀 Features
 - Live news data fetching using API
