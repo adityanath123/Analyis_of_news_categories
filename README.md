@@ -1,4 +1,6 @@
 # 📰 Live News Category Analysis Dashboard
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 
 This project analyzes the distribution of news categories using real-time data from NewsAPI.
 
